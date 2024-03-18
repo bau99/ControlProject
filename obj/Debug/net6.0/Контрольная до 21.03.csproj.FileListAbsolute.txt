@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\bin\Debug\net6.0\Контрольная до 21.03.exe
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\bin\Debug\net6.0\Контрольная до 21.03.deps.json
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\bin\Debug\net6.0\Контрольная до 21.03.runtimeconfig.json
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\bin\Debug\net6.0\Контрольная до 21.03.dll
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\bin\Debug\net6.0\Контрольная до 21.03.pdb
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\Контрольная до 21.03.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\Контрольная до 21.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\Контрольная до 21.03.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\Контрольная до 21.03.AssemblyInfo.cs
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\Контрольная до 21.03.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\Контрольная до 21.03.dll
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\refint\Контрольная до 21.03.dll
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\Контрольная до 21.03.pdb
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\Контрольная до 21.03.genruntimeconfig.cache
+C:\Users\User\Documents\Анна\Гиикбрейнс\Обучение\Контрольная до 21.03\obj\Debug\net6.0\ref\Контрольная до 21.03.dll
